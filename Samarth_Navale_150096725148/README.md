@@ -26,34 +26,6 @@ A scalable **Real-Time Group Chat & Direct Messaging Engine** built with **Node.
 
 ---
 
-## 📁 Project Folder Structure
-
-```text
-📂 Assignment13/
-├── 📄 render.yaml
-├── 📄 vercel.json
-├── 📄 Assignment 13.txt
-├── 📄 README.md
-└── 📂 Samarth_Navale_150096725148/
-    ├── 📄 server.js
-    ├── 📄 package.json
-    ├── 📄 .env & .env.example
-    ├── 📄 .gitignore
-    ├── 📄 render.yaml & vercel.json
-    ├── 📄 README.md
-    ├── 📂 public/
-    │   ├── 📄 index.html
-    │   ├── 📄 app.js
-    │   └── 📄 style.css
-    ├── 📂 sockets/
-    │   ├── 📄 chatHandler.js
-    │   └── 📄 userHandler.js
-    └── 📂 utils/
-        └── 📄 messageStore.js
-```
-
----
-
 ## 🛠️ Tech Stack & Dependencies
 
 - **Runtime:** Node.js
@@ -75,7 +47,6 @@ NODE_ENV=development
 ## 🧪 Testing
 
 ```bash
-cd Samarth_Navale_150096725148
 npm install
 npm test
 ```
